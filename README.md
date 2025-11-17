@@ -1,1 +1,9 @@
-# -Bank-Management-System-
+# -Bank-Management-System-<component name="libraryTable">
+  <library name="jcalendar-tz-1.3.3-4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../bbk/jcalendar-tz-1.3.3-4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
